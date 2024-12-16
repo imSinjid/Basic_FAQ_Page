@@ -1,0 +1,60 @@
+/*Font importing from Google fonts*/
+.inter {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: none;
+    font-style: normal;
+    color: #030616;
+}
+
+h1 {
+    text-align: center;
+    font-size: 36px;
+    font-weight: 600;
+}
+
+
+
+.sub-line {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.top-section {
+    background-color: #FFFFFF;
+}
+
+.mid-section {
+    background-color: #F8FAFC;
+}
+
+.middle {
+    margin-left: 32%;
+}
+
+li {
+    margin-bottom: 1%;
+    margin-left: -1.5%;
+}
+
+.body-section {
+    margin-bottom: 2%;
+}
+
+.margin-list {
+    margin-bottom: 2%;
+}
+
+a {
+    color:#4E80EE;
+}
+
+hr {
+    margin-left: -0.25%;
+    width: 65%;
+    color: #D2D5DA;
+    opacity: 50%;
+}
